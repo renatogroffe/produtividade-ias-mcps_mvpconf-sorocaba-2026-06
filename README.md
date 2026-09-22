@@ -34,7 +34,7 @@ Data: **12/06/2026 (sexta)**
 
 Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
 
-Número de participantes: **20 pessoas (estimativa)**
+Número de participantes: **15 pessoas (estimativa)**
 
 Site do evento: **https://www.mvpconf.com.br/regional/sorocaba/junho**
 
@@ -48,7 +48,6 @@ Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di
 
 ---
 
+![Renato e Milton palestrando 1](img/renato-milton-01.jpeg)
 
-
-
-
+![Site](img/site-01.png)
