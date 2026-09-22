@@ -50,4 +50,8 @@ Deixo aqui meus agradecimentos à **Karen Abecia (Microsoft MVP)**, à **Rosani 
 
 ![Renato e Milton palestrando 1](img/renato-milton-01.jpeg)
 
+![Renato e Milton palestrando 2](img/renato-milton-02.jpeg)
+
+![Renato e Milton palestrando 3](img/renato-milton-03.jpeg)
+
 ![Site](img/site-01.png)
