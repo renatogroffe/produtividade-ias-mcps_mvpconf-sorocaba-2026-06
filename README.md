@@ -19,7 +19,8 @@ Slides e conteúdos da apresentação "Produtividade no Desenvolvimento com IAs:
 - GitHub Copilot: https://github.com/features/copilot?locale=pt-br
 - Docker MCP Catalog: https://hub.docker.com/mcp
 - OWASP MCP Top 10: https://owasp.org/www-project-mcp-top-10/
-
+- APIsec MCP Discovery and Audit: https://github.com/apisec-inc/mcp-audit
+- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
 
 ---
 
@@ -51,5 +52,3 @@ Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di
 
 
 
-- APIsec MCP Discovery and Audit: https://github.com/apisec-inc/mcp-audit
-- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
