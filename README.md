@@ -44,7 +44,7 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
-Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **MVPConf Regional Sorocaba**.
+Deixo aqui meus agradecimentos à **Karen Abecia (Microsoft MVP)**, à **Rosani Coutinho (MVP Conf)**, ao **Heber Lopes (MVP Conf)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **MVPConf Regional Sorocaba**.
 
 ---
 
